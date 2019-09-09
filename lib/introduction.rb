@@ -1,5 +1,5 @@
 def introduction(name)
-  pusts "Hi, mya name is #{name}" 
+  pusts "Hi, my name is #{name}" 
   
 end
 
